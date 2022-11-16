@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import unicode_literals
+
 import six
 
 from django.test import TestCase, TransactionTestCase
